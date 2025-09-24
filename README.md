@@ -45,5 +45,5 @@ A Python-based face recognition tool with automatic face blurring for privacy pr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Dhruv6227/face_recognition.git
+   git clone: https://github.com/Dhruv6227/face_recognition.git
    cd face_recognition
